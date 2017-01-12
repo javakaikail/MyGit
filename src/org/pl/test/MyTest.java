@@ -5,5 +5,6 @@ public class MyTest {
 		System.out.println("wqewe");
 		System.out.println("dsdsdss");
 		System.out.println("master update");
+		System.out.println("dev update");
 	}
 }
