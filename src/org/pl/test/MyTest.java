@@ -6,5 +6,6 @@ public class MyTest {
 		System.out.println("dsdsdss");
 		System.out.println("master update");
 		System.out.println("dev update");
+		System.out.println("remote update");
 	}
 }
