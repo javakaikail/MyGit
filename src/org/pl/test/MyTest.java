@@ -8,5 +8,6 @@ public class MyTest {
 		System.out.println("dev update");
 		System.out.println("local update");
 		System.out.println("remote update");
+		System.out.println("loclahost  update");
 	}
 }
